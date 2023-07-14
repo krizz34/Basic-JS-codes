@@ -37,11 +37,11 @@ Projects
 
 
 
-<h6> To use any of the programs: </h6>
+<h3> To use any of the programs: </h3>
   - Clone the repository or download the code files.
   - Open the desired program's index.html file in a web browser.
   - Follow the instructions provided to interact with the program and obtain the desired results.
 
 
 
-# Feel free to explore each project's code and modify it according to your requirements. Happy coding!
+# Feel free to explore each project's code and modify it according to your requirements. Happy coding! 🙂
