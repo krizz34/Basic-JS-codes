@@ -36,6 +36,13 @@ Projects
   -  Customizable and extensible: The code is modular and can be easily customized or expanded upon to meet specific requirements.
 
 
+<h3>Technologies Used</h3>
+
+- HTML
+- CSS
+- JavaScript
+
+
 
 <h3> To use any of the programs: </h3>
   - Clone the repository or download the code files.
